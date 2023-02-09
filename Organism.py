@@ -24,6 +24,7 @@ canvas.pack(side=LEFT,expand=True,fill=BOTH)
 
 
 sick = 1
+sick = 1
 sickness = 1
 OrganismList = []
 Living_Organism = []
